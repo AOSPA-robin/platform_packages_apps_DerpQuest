@@ -754,7 +754,8 @@
     <string name="style_accent_default_name">Default</string>
     <string name="style_dark_overlay_title">Dark mode</string>
     <string name="style_dark_overlay_default">Deep Grey</string>
-    <string name="style_dark_overlay_black">Amoled Black</string>
+    <string name="style_dark_overlay_charcoal_black">Charcoal Black</string>
+    <string name="style_dark_overlay_amoled_black">Amoled Black</string>
     <string name="style_notification_title">Notification style</string>
     <string name="style_notification_auto">Automatic (system theme)</string>
     <string name="style_notification_light">Light</string>
