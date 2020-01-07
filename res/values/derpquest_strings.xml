@@ -32,6 +32,7 @@
     <string name="volume_title">Volume Settings</string>
     <string name="theming_title">Theming</string>
     <string name="animations_title">Animations</string>
+    <string name="nav_bar_category_title">Navigation bar</string>
 
     <!-- General strings -->
     <string name="ok">OK</string>
